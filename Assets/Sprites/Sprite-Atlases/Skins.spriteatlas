@@ -68,15 +68,15 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2119379cf72914641b9154b79cceafbf, type: 3}
   - {fileID: 21300000, guid: 944aacad164d22b4cb78a5db09e690ab, type: 3}
   m_PackedSpriteNamesToIndex:
-  - Icon6
-  - Icon9
-  - Icon3
-  - Icon7
-  - Icon1
-  - Icon5
-  - Icon4
-  - Icon2
-  - Icon8
+  - Skin-6
+  - Skin-9
+  - Skin-3
+  - Skin-7
+  - Skin-1
+  - Skin-5
+  - Skin-4
+  - Skin-2
+  - Skin-8
   m_RenderDataMap: {}
   m_Tag: Skins
   m_IsVariant: 0
